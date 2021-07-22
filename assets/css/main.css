@@ -1079,3 +1079,9 @@ input, select, textarea {
 		#header nav {
 			padding: 0 1em;
 		} }
+
+.thicc {
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: underline;
+}
