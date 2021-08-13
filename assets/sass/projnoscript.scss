@@ -26,6 +26,17 @@
 		}
 	}
 
+/* Work */
+
+#work {
+	body.is-preload & {
+		.thumb {
+			@include vendor('pointer-events', 'auto');
+			opacity: 1;
+		}
+	}
+}
+
 /* Header */
 
 	#header {

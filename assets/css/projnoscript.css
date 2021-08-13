@@ -13,6 +13,13 @@
 		opacity: 1;
 	}
 
+/* Work */
+
+body.is-preload #work .thumb {
+	pointer-events: auto;
+	opacity: 1;
+}
+
 /* Header */
 
 	body.is-preload #header {
